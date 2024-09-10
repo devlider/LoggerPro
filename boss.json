@@ -1,0 +1,9 @@
+{
+	"name": "logger-pro",
+	"description": "",
+	"version": "1.0.1",
+	"homepage": "",
+	"mainsrc": "./src",
+	"projects": [],
+	"dependencies": {}
+}
